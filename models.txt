@@ -1,0 +1,7 @@
+KNeighborsClassifier
+mean=0.8448387096774195
+
+Random Forest Classifier
+mean =0.801505376344086
+
+better one was KneighboursClassifier model
